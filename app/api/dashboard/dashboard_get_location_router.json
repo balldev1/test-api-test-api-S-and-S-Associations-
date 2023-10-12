@@ -1,0 +1,35 @@
+{
+    "status": "success",
+    "datas_t": {
+        "ภน.1": {
+            "wifi_rotter": 14550
+        },
+        "น.2": {
+            "wifi_rotter": 11664
+        },
+        "": {
+            "wifi_rotter": 23162
+        },
+        "ภน.2": {
+            "wifi_rotter": 10331
+        },
+        "น.3": {
+            "wifi_rotter": 9325
+        },
+        "ภน.3": {
+            "wifi_rotter": 7965
+        },
+        "ภก.1": {
+            "wifi_rotter": 19000
+        },
+        "น.1": {
+            "wifi_rotter": 18612
+        },
+        "ภก.3": {
+            "wifi_rotter": 22680
+        },
+        "ภก.2": {
+            "wifi_rotter": 7438
+        }
+    }
+}

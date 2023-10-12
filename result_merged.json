@@ -1,0 +1,27 @@
+{
+    "status": "success",
+    "datas_t": {
+      "ap": {
+        "data": [ ...data from dashboard_get_location_ap.json ]
+      },
+      "ipphone": {
+        "data": [ ...data from dashboard_get_location_ipphone.json ]
+      },
+      "offline": {
+        "data": [ ...data from dashboard_get_location_offline.json ]
+      },
+      "online": {
+        "data": [ ...data from dashboard_get_location_online.json ]
+      },
+      "onu": {
+        "data": [ ...data from dashboard_get_location_onu.json ]
+      },
+      "private": {
+        "data": [ ...data from dashboard_get_location_private.json ]
+      },
+      "router": {
+        "data": [ ...data from dashboard_get_location_router.json ]
+      }
+    }
+  }
+  
